@@ -1,0 +1,6 @@
+bin/
+downloads/*
+!downloads/thumbnails/
+.git
+*.bat
+*.ps1
